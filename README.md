@@ -23,5 +23,5 @@
 ---
 
 ### 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentino_Guerrini-blue?logo=linkedin)](https://linkedin.com/in/valentino-guerrini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentino_Guerrini-blue?logo=linkedin)](https://linkedin.com/in/guerrini)
 [![Website](https://img.shields.io/badge/Portfolio-valentinoguerrini.github.io-orange?logo=githubpages)](https://valentinoguerrini.github.io)
