@@ -12,7 +12,7 @@
 ---
 
 ### 🧰 Tools & Technologies
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![C++23](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Vitis HLS](https://img.shields.io/badge/Vitis_HLS-FF6F00?logo=xilinx&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-00979D?logo=xilinx&logoColor=white)
 ![MPI](https://img.shields.io/badge/MPI-000000?logo=mpich&logoColor=white)
