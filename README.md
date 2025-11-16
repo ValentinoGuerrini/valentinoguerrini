@@ -7,7 +7,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Valentino's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinoguerrini&show_icons=true&theme=transparent) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinoguerrini&layout=compact&theme=transparent)
+![Valentino's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinoguerrini&show_icons=true&rank_icon=github&theme=transparent) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinoguerrini&layout=compact&theme=transparent)
 
 ---
 
